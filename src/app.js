@@ -52,8 +52,8 @@ export class App extends Component {
           handleNewUserMessage={this.handleNewUserMessage}
           handleQuickButtonClicked={this.handleQuickButtonClicked}
           // profileAvatar={'text'}
-          title="Polls"
-          subtitle="Polls Demo"
+          title="Store"
+          subtitle="Tell us what you need!"
         />
         <Header />
         <Hero />
